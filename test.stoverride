@@ -37,6 +37,14 @@ tiles:
     icon: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/img/netflix.png
     collapsed: true
     url: https://www.netflix.com
+  - name: Disney-Check
+    title: Disney+
+    icon: 
+    collapsed: true
+  - name: Gemini-Check
+    title: Gemini
+    icon: 
+    collapsed: true
 
 script-providers:
   IPPure IP Info:
@@ -45,7 +53,6 @@ script-providers:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/ippure-ip-fraud-score.js
   IPPure IP Native Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/ippure-ip-native-check.js
-
   ChatGPT-Web-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/chatgpt-web.js
   ChatGPT-App-Check:
@@ -54,3 +61,7 @@ script-providers:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/youtube.js
   Netflix-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/netflix.js
+  Disney-Check：
+    url: 
+  Gemini-Check
+    url: 
