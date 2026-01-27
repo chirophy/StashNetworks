@@ -1,5 +1,6 @@
 name: 网络监控
 desc: 流媒体与GPT检测
+icon: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/img/deepcogito.svg
 
 tiles:
   - name: IPPure IP Info
