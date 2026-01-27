@@ -64,7 +64,7 @@ script-providers:
     url: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/script/youtube.js
   Netflix-Check:
     url: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/script/netflix.js
-  Disney-Check：
+  Disney-Check:
     url: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/script/Disney+.js
-  Gemini-Check
+  Gemini-Check:
     url: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/script/Gemini.js
