@@ -21,7 +21,7 @@ async function main() {
   // 当地区不支持时，Gemini 页面会包含特定的不支持说明
   if (data.includes("isn't supported") || data.includes("isn't available")) {
     $done({
-      content: "Unsupported Region",
+      content: "不支持的地区",
       backgroundColor: "#666666",
     });
     return;

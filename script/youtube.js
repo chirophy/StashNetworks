@@ -24,7 +24,7 @@ async function main() {
   // 检查返回内容中是否包含“在您所在的国家/地区不可用”的英文特征字符
   if (data.toLowerCase().includes("premium is not available") || data.toLowerCase().includes("is not currently available")) {
     $done({
-      content: "Not Available",
+      content: "不支持的地区",
       backgroundColor: "#666666",
     });
     return;
