@@ -39,12 +39,14 @@ tiles:
     url: https://www.netflix.com
   - name: Disney-Check
     title: Disney+
-    icon: 
+    icon: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/img/disney.svg
     collapsed: true
+    url: https://www.disneyplus.com/
   - name: Gemini-Check
     title: Gemini
-    icon: 
+    icon: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/img/gemini.svg
     collapsed: true
+    url: https://gemini.google.com/
 
 script-providers:
   IPPure IP Info:
@@ -58,10 +60,10 @@ script-providers:
   ChatGPT-App-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/chatgpt-app.js
   YouTube-Check:
-    url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/youtube.js
+    url: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/script/youtube.js
   Netflix-Check:
-    url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/netflix.js
+    url: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/script/netflix.js
   Disney-Check：
-    url: https://raw.githubusercontent.com/chirophy/StashNetworks/refs/heads/main/script/Disney%2B.js
+    url: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/script/Disney+.js
   Gemini-Check
-    url: https://raw.githubusercontent.com/chirophy/StashNetworks/refs/heads/main/script/Gemini.js
+    url: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/script/Gemini.js
