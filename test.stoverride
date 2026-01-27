@@ -62,6 +62,6 @@ script-providers:
   Netflix-Check:
     url: https://fastly.jsdelivr.net/gh/StashNetworks/misc@main/collapsed-tiles/script/netflix.js
   Disney-Check：
-    url: 
+    url: https://raw.githubusercontent.com/chirophy/StashNetworks/refs/heads/main/script/Disney%2B.js
   Gemini-Check
-    url: 
+    url: https://raw.githubusercontent.com/chirophy/StashNetworks/refs/heads/main/script/Gemini.js
