@@ -1,6 +1,6 @@
 name: 网络监控
 desc: 流媒体与GPT检测
-icon: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/img/deepcogito.svg
+icon: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/img/deepcogito.png
 
 tiles:
   - name: IPPure IP Info
@@ -40,12 +40,12 @@ tiles:
     url: https://www.netflix.com
   - name: Disney-Check
     title: Disney+
-    icon: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/img/disney.svg
+    icon: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/img/disney.png
     collapsed: true
     url: https://www.disneyplus.com/
   - name: Gemini-Check
     title: Gemini
-    icon: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/img/gemini.svg
+    icon: https://cdn.jsdelivr.net/gh/chirophy/StashNetworks@main/img/gemini.png
     collapsed: true
     url: https://gemini.google.com/
 
